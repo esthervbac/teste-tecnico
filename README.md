@@ -6,7 +6,7 @@ Repositório contendo os projetos do teste técnico:
 2. **`estoque-vendas`**: Gestão e controle de estoque de vendas.
 3. **`juros-multa-vencimento`**: Cálculo de juros e multas para títulos/faturas vencidas.
 
-# 🚀 Como Executar os Projetos
+## 🚀 Como Executar os Projetos
 
 ## Cálculo de Comissão de Vendas (calculo-comissao-vendas)
 
@@ -48,10 +48,26 @@ npm install
 npm start
 ```
 
-2. Estoque e Vendas (estoque-vendas)
+## Estoque e Vendas (estoque-vendas)
 
 Módulo destinado ao controle e gestão de estoque.
 
-3. Juros e Multa por Vencimento (juros-multa-vencimento)
+### Executando em Pytho
+
+---
+
+### Executando em TypeScript (Node.js)
+
+---
+
+## Juros e Multa por Vencimento (juros-multa-vencimento)
 
 Módulo destinado aos cálculos financeiros de juros e multas para títulos vencidos.
+
+### Executando em Python
+
+---
+
+### Executando em TypeScript (Node.js)
+
+---

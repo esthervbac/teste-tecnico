@@ -100,9 +100,7 @@ Módulo destinado aos cálculos financeiros de juros e multas para títulos venc
 cd juros-multa-vencimento
 ```
 
-2. Certifique-se de que o arquivo json/vencido.json está presente na pasta json/.
-
-3. Execute a aplicação:
+2. Execute a aplicação:
 
 ```bash
 python app.py

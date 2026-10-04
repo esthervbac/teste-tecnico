@@ -8,35 +8,45 @@ Repositório contendo os projetos do teste técnico:
 
 # 🚀 Como Executar os Projetos
 
-1. Cálculo de Comissão de Vendas (calculo-comissao-vendas)
+## Cálculo de Comissão de Vendas (calculo-comissao-vendas)
 
 Este módulo processa um arquivo de registros de vendas (json/vendas.json) e calcula o total vendido e a comissão acumulada por cada vendedor segundo as regras de negócio.
 
-## Executando em Python
+### Executando em Python
 
 1. Navegue até a pasta do projeto:
 
-`cd calculo-comissao-vendas`
+```bash
+cd calculo-comissao-vendas
+```
 
 2. Certifique-se de que o arquivo json/vendas.json está presente na pasta json/.
 
 3. Execute a aplicação:
 
-`python app.py`
+```bash
+python app.py
+```
 
-## Executando em TypeScript (Node.js)
+### Executando em TypeScript (Node.js)
 
 1. Navegue até a pasta do projeto:
 
-`cd calculo-comissao-vendas`
+```bash
+cd calculo-comissao-vendas
+```
 
 2. Instale as dependências do projeto (se for a primeira vez executando):
 
-`npm install`
+```bash
+npm install
+```
 
 3. Execute o comando de inicialização:
 
-`npm start`
+```bash
+npm start
+```
 
 2. Estoque e Vendas (estoque-vendas)
 

@@ -52,13 +52,41 @@ npm start
 
 Módulo destinado ao controle e gestão de estoque.
 
-### Executando em Pytho
+### Executando em Python
 
----
+1. Navegue até a pasta do projeto:
+
+```bash
+cd estoque-vendas
+```
+
+2. Certifique-se de que o arquivo json/vendas.json está presente na pasta json/.
+
+3. Execute a aplicação:
+
+```bash
+python app.py
+```
 
 ### Executando em TypeScript (Node.js)
 
----
+1. Navegue até a pasta do projeto:
+
+```bash
+cd estoque-vendas
+```
+
+2. Instale as dependências do projeto (se for a primeira vez executando):
+
+```bash
+npm install
+```
+
+3. Execute o comando de inicialização:
+
+```bash
+npm start
+```
 
 ## Juros e Multa por Vencimento (juros-multa-vencimento)
 
@@ -66,8 +94,36 @@ Módulo destinado aos cálculos financeiros de juros e multas para títulos venc
 
 ### Executando em Python
 
----
+1. Navegue até a pasta do projeto:
+
+```bash
+cd juros-multa-vencimento
+```
+
+2. Certifique-se de que o arquivo json/vendas.json está presente na pasta json/.
+
+3. Execute a aplicação:
+
+```bash
+python app.py
+```
 
 ### Executando em TypeScript (Node.js)
 
----
+1. Navegue até a pasta do projeto:
+
+```bash
+cd juros-multa-vencimento
+```
+
+2. Instale as dependências do projeto (se for a primeira vez executando):
+
+```bash
+npm install
+```
+
+3. Execute o comando de inicialização:
+
+```bash
+npm start
+```

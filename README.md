@@ -60,7 +60,7 @@ Módulo destinado ao controle e gestão de estoque.
 cd estoque-vendas
 ```
 
-2. Certifique-se de que o arquivo json/vendas.json está presente na pasta json/.
+2. Certifique-se de que o arquivo json/estoque.json está presente na pasta json/.
 
 3. Execute a aplicação:
 
@@ -100,7 +100,7 @@ Módulo destinado aos cálculos financeiros de juros e multas para títulos venc
 cd juros-multa-vencimento
 ```
 
-2. Certifique-se de que o arquivo json/vendas.json está presente na pasta json/.
+2. Certifique-se de que o arquivo json/vencido.json está presente na pasta json/.
 
 3. Execute a aplicação:
 
